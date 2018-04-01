@@ -31,9 +31,9 @@
 
 #### Word: Excavations
 
-##### - British National Corpus (BNC)
+##### * British National Corpus (BNC)
 ![Sketch](Excavations1.PNG)
 
-##### - Google NGram
+##### * Google NGram
 ![Sketch](Excavations2.PNG)
 
